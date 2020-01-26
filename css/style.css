@@ -1,18 +1,12 @@
-
-.container {
-    max-width: 800px!important;
-}
 .image img {
     height: 100%;
-    width: 33%;
+    width: 23%;
     position: relative;
-    left: 228px;
+    left: 393px;
 }
 
 .image {
     border-right: 12px solid #5ABAB4;
-    position: relative;
-    left: -1px;
 }
 .h-25 {
     height: 100px!important;
