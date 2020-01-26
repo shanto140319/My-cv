@@ -11,6 +11,8 @@
 
 .image {
     border-right: 12px solid #5ABAB4;
+    position: relative;
+    left: -1px;
 }
 .h-25 {
     height: 100px!important;
